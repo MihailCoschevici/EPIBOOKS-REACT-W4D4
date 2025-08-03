@@ -1,0 +1,74 @@
+[
+  {
+    "asin": "0316438960",
+    "title": "L'ombra degli dèi. La saga dei Fratelli di Sangue. Vol. 1",
+    "author": "John Gwynne",
+    "img": "https://www.lafeltrinelli.it/images/9788834742310_0_0_536_0_75.jpg",
+    "price": 26.54,
+    "category": "FANTASY"
+  },
+  {
+    "asin": "0765326353",
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "img": "https://m.media-amazon.com/images/I/81cO02Zz6VL._UF1000,1000_QL80_.jpg",
+    "price": 9.38,
+    "category": "FANTASY"
+  },
+  {
+    "asin": "0345391802",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "img": "https://d3ddkgxe55ca6c.cloudfront.net/assets/t1497331219/a/d9/0f/130759-ml-373508.jpg",
+    "price": 7.99,
+    "category": "FANTASY"
+  },
+  {
+    "asin": "0553801473",
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "img": "https://m.media-amazon.com/images/I/71zhHAzq9uL._UF1000,1000_QL80_.jpg",
+    "price": 9.99,
+    "category": "FANTASY"
+  },
+  {
+    "asin": "0765376678",
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "img": "https://m.media-amazon.com/images/I/91U6rc7u0yL.jpg",
+    "price": 11.89,
+    "category": "FANTASY"
+  },
+  {
+    "asin": "1476776789",
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "img": "https://grimoakpress.com/cdn/shop/files/cover-notw-fc.jpg?v=1706902909",
+    "price": 12.99,
+    "category": "FANTASY"
+  },
+  {
+    "asin": "8845292614",
+    "title": "Il Signore degli Anelli",
+    "author": "J.R.R. Tolkien",
+    "img": "https://www.lafeltrinelli.it/images/9788830119000_0_0_536_0_75.jpg",
+    "price": 33.25,
+    "category": "FANTASY"
+  },
+  {
+    "asin": "8869185188",
+    "title": "Harry Potter e la Pietra Filosofale",
+    "author": "J.K. Rowling",
+    "img": "https://www.lafeltrinelli.it/images/9788831003384_0_0_536_0_75.jpg",
+    "price": 15.20,
+    "category": "FANTASY"
+  },
+  {
+    "asin": "0062472149",
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "img": "https://m.media-amazon.com/images/I/716LpMKQ3iL._UF1000,1000_QL80_.jpg",
+    "price": 14.50,
+    "category": "FANTASY"
+  }
+]
