@@ -13,7 +13,6 @@ test('Verifica che il componente Welcome venga montato correttamente', async () 
       <App />
     </MemoryRouter>
   );
-  // Aumentiamo il timeout a 3 secondi (3000ms) per essere sicuri
   const welcomeElement = await screen.findByRole(
     'heading',
     { name: /Benvenuto in EpiBooks!/i },
